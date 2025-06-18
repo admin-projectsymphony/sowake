@@ -1,0 +1,1 @@
+# Entropy + SHA validation logic

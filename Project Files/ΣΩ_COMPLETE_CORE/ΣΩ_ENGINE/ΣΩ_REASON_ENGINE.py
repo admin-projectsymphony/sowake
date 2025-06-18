@@ -1,0 +1,1 @@
+def __call__(text): return {'text': text, 'entropy': 0.42}

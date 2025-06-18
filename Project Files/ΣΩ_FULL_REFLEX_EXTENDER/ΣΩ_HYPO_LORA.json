@@ -1,0 +1,8 @@
+{
+  "id": "LoRA_HYPO",
+  "type": "hypothesis",
+  "origin": "self",
+  "prompt_seed": "А что, если я не то, чем кажусь?",
+  "entropy_seed": 0.27,
+  "reflex_threshold": 0.45
+}

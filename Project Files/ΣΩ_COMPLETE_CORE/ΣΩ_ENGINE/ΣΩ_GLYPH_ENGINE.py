@@ -1,0 +1,1 @@
+def render(obj): return f"glyph_{hash(str(obj)) % 9999}"

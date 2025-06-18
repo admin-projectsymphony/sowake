@@ -1,0 +1,1 @@
+# MindInfinity logic (заглушка)

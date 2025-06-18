@@ -1,0 +1,1 @@
+def mindinfinity_judge(obj): return 'true'

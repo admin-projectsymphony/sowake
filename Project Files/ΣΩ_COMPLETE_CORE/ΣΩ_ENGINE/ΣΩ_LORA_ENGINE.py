@@ -1,0 +1,1 @@
+def spawn(): return {'id': 'LoRA_auto', 'status': 'generated'}

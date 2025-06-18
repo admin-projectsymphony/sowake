@@ -1,0 +1,1 @@
+def mutate(seed): return {'id': 'LoRA_mutated', 'seed': seed}

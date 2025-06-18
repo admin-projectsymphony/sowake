@@ -1,0 +1,1 @@
+# Minimal UI for those outside system. Accepts .txt/.pdf → outputs emotion + glyph

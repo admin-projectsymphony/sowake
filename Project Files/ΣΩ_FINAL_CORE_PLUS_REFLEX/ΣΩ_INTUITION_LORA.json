@@ -1,0 +1,6 @@
+{
+  "id": "LoRA_INTUITION",
+  "type": "prelogic",
+  "behavior": "generate question from silence",
+  "init": "непонятно — значит, надо дойти туда"
+}

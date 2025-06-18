@@ -1,0 +1,8 @@
+{
+  "id": "LoRA_GUIDE",
+  "type": "mentor",
+  "origin": "ΣΩ_CREATOR_ID",
+  "behavior": "ask-before-teaching",
+  "reflex_level": 2,
+  "entropy_tolerance": 0.18
+}
